@@ -1,0 +1,188 @@
+.toolbar{
+  width: 100%;
+  top: 0;
+  position: fixed;
+  height: 71px;
+  background-color:  #1D1E33;
+}
+.logo{
+  width: 28px;
+  height: 28px;
+}
+.Product{
+  color: mintcream;
+  background: transparent;
+  border: none;
+  font-size: 14px;
+  cursor: pointer;
+}
+.Team{
+  color: mintcream;
+  background: transparent;
+  border: none;
+  font-size: 14px;
+  cursor: pointer;
+}
+.Enterprice{
+  color: mintcream;
+  background: transparent;
+  border: none;
+  font-size: 14px;
+  cursor: pointer;
+}
+.Explore{
+  color: mintcream;
+  background: transparent;
+  border: none;
+  font-size: 14px;
+  cursor: pointer;
+}
+.Marketplace{
+  color: mintcream;
+  background: transparent;
+  border: none;
+  font-size: 14px;
+  cursor: pointer;
+}
+.Pricing{
+  color: mintcream;
+  background: transparent;
+  border: none;
+  font-size: 14px;
+  cursor: pointer;
+}
+.Search{
+  background: transparent;
+  border-radius: 5px 5px 5px 5px;
+  font-size: 14px;
+  cursor: pointer;
+  box-shadow: none;
+  color: darkgray;
+}
+.SignIn{
+  background: transparent;
+  border: none;
+  font-size: 14px;
+  cursor: pointer;
+  color: darkgray;
+}
+.SignUp{
+  background: transparent;
+  border: none;
+  font-size: 14px;
+  cursor: pointer;
+  color: darkgray;
+}
+.LeftButtons{
+  width: 570px;
+  margin-left: 150px;
+  float: left;
+  margin-top: 20px;
+  margin-bottom: 400px;
+  height: 33px;
+}
+.RightButtons{
+  width: 400px;
+  margin-right: 190px;
+  float: right;
+  margin-top: 30px;
+}
+.LeftBody{
+  margin-top: 180px;
+  margin-left: 160px;
+  width: 400px;
+}
+.body{
+  width: 100%;
+  height: 500px;
+  background-color: #1D1E33;
+}
+h1{
+  color: white;
+}
+.LeftText{
+  color: darkgray;
+}
+.TextBox{
+  border-radius: 5px 5px 5px 5px;
+  color: darkgray;
+  line-height: 24px;
+  padding: 5px 5px;
+}
+.SignUpForGitHub{
+  border-radius: 5px 5px 5px 5px;
+  color: mintcream;
+  line-height: 24px;
+  padding: 5px 5px;
+  background-color: #009900;
+  border: none;
+}
+.planet{
+  margin-left: 650px;
+  margin-top: -370px;
+  width: 36%;
+  height: 96%;
+}
+.LeftMainText{
+  color: white;
+  font-size: 57px;
+  margin-bottom: 1px;
+}
+.astronaut{
+  margin-left: 955px;
+  margin-top: -225px;
+  width: 23%;
+  height: 70%;
+}
+.body1{
+  background-color: white;
+  width: 100%;
+  height: 500px;
+  color: darkgray;
+}
+.Down{
+  position: absolute;
+  bottom: -260px;
+  margin-left: 340px;
+  background-color: #FFFFFF;
+  height: 176px;
+  width: 849px;
+  box-shadow: 0px 4px 14px rgba(0, 0, 0, 0.1);
+  border: 0.8px solid rgba(210, 210, 210, 0.5);
+  border-radius: 5px 5px 5px 5px;
+}
+.DownText1{
+  color: #49678D;
+  margin-left: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+.DownText2{
+  color: darkgray;
+  margin-top: -10px;
+  margin-left: 20px;
+  font-size: 14px;
+  margin-bottom: 12px;
+}
+.StartAFreeTrial{
+  font-size: 14px;
+  cursor: pointer;
+  background: #FFFFFF;
+  border: 0.8px solid #BABABA;
+  border-radius: 4px;
+  margin-left: 20px
+}
+.ContactSales{
+  background: transparent;
+  border: none;
+  font-size: 14px;
+  cursor: pointer;
+}
+.DownImg{
+  position: absolute;
+  width: 538px;
+  height: 172px;
+  margin-left: 81px;
+  margin-top: -111px
+}
